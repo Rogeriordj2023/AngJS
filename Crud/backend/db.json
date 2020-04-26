@@ -1,16 +1,19 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "caneta bic preta",
-        "price": 5.89
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta bic preta",
+      "price": 5.89
     },
-    {   "id": 2,
-        "name": "caneta bic AZUL",
-        "price": 6.00
+    {
+      "id": 2,
+      "name": "caneta bic AZUL",
+      "price": 6
     },
-    {   "id": 3,
-        "name": "caneta bic AMARELA",
-        "price": 7.00
+    {
+      "id": 3,
+      "name": "caneta bic AMARELA",
+      "price": 7
     }
-]
+  ]
 }
