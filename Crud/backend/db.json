@@ -14,6 +14,11 @@
       "id": 3,
       "name": "caneta bic AMARELA",
       "price": 7
+    },
+    {
+      "name": "guilherme gay",
+      "price": "1.00",
+      "id": 4
     }
   ]
 }
